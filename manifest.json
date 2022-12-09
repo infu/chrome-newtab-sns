@@ -3,7 +3,7 @@
   "name": "SNS-1",
   "description": "Blank Tab",
   "version": "0.0.0.1",
-  "permissions": ["tabs", "chrome://favicon/"],
+  "permissions": [],
   "icons": {
     "128": "favicon.png"
   },
